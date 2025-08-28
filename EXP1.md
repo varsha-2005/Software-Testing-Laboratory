@@ -114,7 +114,7 @@ iterate()
 ![6511d9ec-85c6-494d-b0cd-5435d758b5fd](https://github.com/user-attachments/assets/06862a8e-6495-405d-8092-22898a18ae48)
 
 ## for
-![stl1e](https://github.com/user-attachments/assets/059fee5a-54e8-4533-b4aa-12bd4a4ae912)
+![db53d66e-2268-480c-b7c5-560c336aac68](https://github.com/user-attachments/assets/fe746325-bb5f-41b1-83e1-3eaf24510ad0)
 
 
 
