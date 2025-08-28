@@ -110,8 +110,8 @@ iterate()
 
 
 ## If else
-  ![stl1d](https://github.com/user-attachments/assets/23e82684-68e4-4a34-b7d7-28fd14bde424)
 
+![6511d9ec-85c6-494d-b0cd-5435d758b5fd](https://github.com/user-attachments/assets/06862a8e-6495-405d-8092-22898a18ae48)
 
 ## for
 ![stl1e](https://github.com/user-attachments/assets/059fee5a-54e8-4533-b4aa-12bd4a4ae912)
