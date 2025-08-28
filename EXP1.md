@@ -102,7 +102,7 @@ iterate()
 
 
 ## While do
-![stl1b](https://github.com/user-attachments/assets/9fe4feca-5d2a-4feb-9fea-25c0fde87112)
+![36c06941-5427-4508-bc0a-8ca62eb3ad42](https://github.com/user-attachments/assets/7df28095-5e3f-4e73-ae1b-009920813540)
 
 
 ## Switch
