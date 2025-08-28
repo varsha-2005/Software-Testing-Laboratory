@@ -98,7 +98,7 @@ iterate()
 ### Output:
 
 ## Do while
-![stl1a](https://github.com/user-attachments/assets/1828d8ae-c347-4c89-a54e-b4776bd2d18a)
+![630ab813-1c80-4c7a-8525-7dc123143ca9](https://github.com/user-attachments/assets/5723abfc-5680-441b-8f7b-a9eefa765fe7)
 
 
 ## While do
