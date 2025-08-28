@@ -35,7 +35,7 @@ def display():
 display()
 ```
 
-## while do
+## while
 
 ```
 start=input("Enter a positive value for START: ")
@@ -102,7 +102,7 @@ iterate()
 ![630ab813-1c80-4c7a-8525-7dc123143ca9](https://github.com/user-attachments/assets/5723abfc-5680-441b-8f7b-a9eefa765fe7)
 
 
-## While do
+## While
 ![36c06941-5427-4508-bc0a-8ca62eb3ad42](https://github.com/user-attachments/assets/7df28095-5e3f-4e73-ae1b-009920813540)
 
 
