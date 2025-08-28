@@ -106,8 +106,8 @@ iterate()
 
 
 ## Switch
+![001cb3e8-7e11-410e-a337-9fa9d570b4b1](https://github.com/user-attachments/assets/aaa97053-3833-4ff1-b173-c97c114a0990)
 
-![stl1c](https://github.com/user-attachments/assets/b7449049-75b4-4ad7-96eb-9754e3ab44b5)
 
 ## If else
   ![stl1d](https://github.com/user-attachments/assets/23e82684-68e4-4a34-b7d7-28fd14bde424)
