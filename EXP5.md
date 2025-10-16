@@ -62,6 +62,7 @@ except ValueError:
 
 ### Output:
 
+![WhatsApp Image 2025-10-16 at 08 32 24_7966e14b](https://github.com/user-attachments/assets/63c64f1c-c560-46e7-af9b-df8edd3ac3f4)
 
 
 ### Result:
